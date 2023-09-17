@@ -1,41 +1,49 @@
 package programmers;
 
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class PRO_2_GameMapMinDistance {
 	static int[] dx = {-1,1,0,0};
 	static int[] dy = {0,0,1,-1};
-	static boolean visited[][];
-	static int min;
+	static int check[][];
+	static int count;
+	static int answer = 0;
 	public static void main(String[] args) {
 		int[][] maps = {{1,0,1,1,1},{1,0,1,0,1},{1,0,1,1,1},{1,1,1,0,1},{0,0,0,0,1}};
-		int min = Integer.MAX_VALUE;
-		visited = new boolean[maps.length][maps[0].length];
-		dfs(0,0,maps,0);
-		if(min==Integer.MAX_VALUE) {
-			System.out.println(-1);
-		}else {
-			System.out.println(min);
-		}
+		check = new int[maps.length][maps[0].length];
+		check[0][0] = 1;
+		dfs(maps);
+		answer = check[maps.length-1][maps[0].length-1];
+		System.out.println(answer==0?-1:answer);
 
-
+		int[][] maps2 = {{1,0,1,1,1},{1,0,1,0,1},{1,0,1,1,1},{1,1,1,0,0},{0,0,0,0,1}};
+		check = new int[maps2.length][maps2[0].length];
+		check[0][0] = 1;
+		dfs(maps2);
+		answer = 0;
+		answer = check[maps2.length-1][maps2[0].length-1];
+		System.out.println(answer==0?-1:answer);
 	}
-	public static void dfs(int x, int y, int[][] maps, int count) {
-		count++;
-		if(x==maps.length-1 && y==maps[0].length-1) {
-			min = Math.min(min, count);
-			return;
-		}
-		for(int i = 0;i<4;i++) {
-			int x1 = x+dx[i];
-			int y1 = y+dy[i];
-			if(x1<0 || y1<0 || x1>=maps.length || y1>=maps[0].length) continue;
-			if(!visited[x1][y1] && maps[x1][y1]==1) {
-				visited[x1][y1] = true;
-				dfs(x1,y1,maps,count);
-				visited[x1][y1] = false;
+	public static void dfs(int[][] maps) {
+		Queue<int[]> q = new LinkedList<>();
+		q.add(new int[] {0,0});
+
+		while(!q.isEmpty()) {
+			int[] remove = q.remove();
+			int rx = remove[0];
+			int ry = remove[1];
+			for(int i = 0;i<4;i++) {
+				int nx = rx+dx[i];
+				int ny = ry+dy[i];
+				if(nx >= 0 && nx < maps.length && ny >= 0 && ny < maps[0].length) {
+					if(check[nx][ny]==0 && maps[nx][ny]==1) {
+						check[nx][ny] = check[rx][ry]+1;
+						q.add(new int[] {nx,ny});
+					}
+				}
 			}
 		}
 	}
-
 }
 

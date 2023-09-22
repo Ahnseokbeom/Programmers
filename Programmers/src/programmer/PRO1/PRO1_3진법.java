@@ -1,6 +1,6 @@
-package programmers;
+package programmer.PRO1;
 
-public class PRO_1_3Jinbeb {
+public class PRO1_3진법 {
 	class Solution {
 	    public int solution(int n) {
 	        String answer = "";

@@ -1,0 +1,21 @@
+package programmers.PRO2;
+
+import java.util.Arrays;
+
+public class PRO2_최댓값과최솟값 {
+	public static void main(String[] args) {
+		
+		System.out.println(solution("1 2 3 4"));
+		System.out.println(solution("-1 -2 -3 -4"));
+		System.out.println(solution("-1 -1"));
+	}
+	public static String solution(String s) {
+        String answer = "";
+        String[] str = s.split(" ");
+        int[] arr = Arrays.stream(str).mapToInt(Integer::parseInt).toArray();
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+        answer += String.valueOf(arr[0])+" "+String.valueOf(arr[arr.length-1]);
+        return answer;
+    }
+}

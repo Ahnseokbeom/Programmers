@@ -2,7 +2,6 @@ package programmers.PRO3;
 
 public class PRO3_등굣길 {
 	public static void main(String[] args) {
-		
 		System.out.println(solution(4,3,new int[][] {{2,2}}));
 	}
 	public static int solution(int m, int n, int[][] puddles) {

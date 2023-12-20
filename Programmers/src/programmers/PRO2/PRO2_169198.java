@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_당구연습 {
+public class PRO2_169198 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(10, 10, 3, 7,new int[][] {{7,7},{2,7},{7,3}})));
 	}

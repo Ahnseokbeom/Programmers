@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Stack;
 
-public class PRO2_과제진행하기 {
+public class PRO2_176962 {
 	public static void main(String[] args) {
 		String[][] plans1 = {{"korean", "11:40", "30"},{"english", "12:10", "20"}
 		,{"math", "12:30", "40"}};

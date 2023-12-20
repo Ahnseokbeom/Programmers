@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_거리두기확인하기 {
+public class PRO2_81302 {
 	public static void main(String[] args) {
 		// X 파티션 / P 사람 / O 빈 자리
 		String[][] place = {{"POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"},{"POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"},

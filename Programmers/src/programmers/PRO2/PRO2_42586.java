@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PRO2_기능개발 {
+public class PRO2_42586 {
 	public static void main(String[] args) {
 		
 		System.out.println(Arrays.toString(solution(new int[] {93,30,55}, new int[] {1,30,5})));

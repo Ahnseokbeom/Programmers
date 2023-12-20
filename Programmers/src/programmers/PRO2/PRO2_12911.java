@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_다음큰숫자 {
+public class PRO2_12911 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(78));

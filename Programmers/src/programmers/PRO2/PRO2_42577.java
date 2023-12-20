@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PRO2_전화번호목록 {
+public class PRO2_42577 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new String[] {"123","456","789"}));

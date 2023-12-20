@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_점프와순간이동 {
+public class PRO2_12980 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(5));

@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Stack;
 
-public class PRO2_택배상자 {
+public class PRO2_131704 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {4,3,1,2,5}));

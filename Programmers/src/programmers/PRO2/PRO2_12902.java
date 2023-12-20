@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_3xN타일링{
+public class PRO2_12902 {
 	static long[] dp;
 	static int mod = 1000000007;
 	public static void main(String[] args) {

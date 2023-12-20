@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_숫자의표현 {
+public class PRO2_12924 {
 	public static void main(String[] args) {
 		System.out.println(solution(15));
 	}

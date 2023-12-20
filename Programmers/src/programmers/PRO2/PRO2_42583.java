@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class PRO2_다리를지나는트럭 {
+public class PRO2_42583 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(2, 10, new int[] {7,4,5,6}));

@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_N개의최소공배수 {
+public class PRO2_12953 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {2,6,8,14}));

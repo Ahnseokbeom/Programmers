@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_타겟넘버 {
+public class PRO2_43165 {
 	static int answer = 0;
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {1,1,1,1,1},3));

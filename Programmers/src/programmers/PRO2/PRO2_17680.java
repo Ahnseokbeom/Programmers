@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.ArrayList;
 
-public class PRO2_1차캐시 {
+public class PRO2_17680 {
 	public static void main(String[] args) {
 		System.out.println(solution(3, new String[] {"Jeju", "Pangyo", "Seoul", "NewYork", "LA", "Jeju", "Pangyo", "Seoul", "NewYork", "LA"}));
 		System.out.println(solution(3, new String[] {"Jeju", "Pangyo", "Seoul", "Jeju", "Pangyo", "Seoul", "Jeju", "Pangyo", "Seoul"}));

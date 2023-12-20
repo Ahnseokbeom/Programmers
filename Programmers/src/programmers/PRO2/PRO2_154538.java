@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class PRO2_숫자변환하기 {
+public class PRO2_154538 {
 	public static void main(String[] args) {
 		int x1 = 10;
 		int y1 = 40;

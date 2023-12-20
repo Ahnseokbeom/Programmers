@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class PRO2_영어끝말잇기 {
+public class PRO2_12981 {
 	public static void main(String[] args) {
 		String[] words1 = {"tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"};
 		System.out.println(Arrays.toString(solution(3, words1)));

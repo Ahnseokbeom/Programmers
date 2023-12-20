@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Stack;
 
-public class PRO2_큰수만들기 {
+public class PRO2_42883 {
 	public static void main(String[] args) {
 		System.out.println(solution("1924", 2));
 		System.out.println(solution("1231234", 3));

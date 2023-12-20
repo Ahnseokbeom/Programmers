@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_N_Queen {
+public class PRO2_12952 {
 	static boolean[] visited;
     static int[] pick;
     static int answer;

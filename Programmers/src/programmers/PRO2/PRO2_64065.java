@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class PRO2_튜플 {
+public class PRO2_64065 {
 	public ArrayList<Integer> solution(String s){
 		ArrayList<Integer> answer = new ArrayList<>();
 		s = s.substring(2,s.length());

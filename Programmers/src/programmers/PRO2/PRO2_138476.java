@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PRO2_귤고르기 {
+public class PRO2_138476 {
 	public static void main(String[] args) {
 
 		System.out.println(solution1(6,new int[]{1, 3, 2, 5, 4, 5, 2, 3}));

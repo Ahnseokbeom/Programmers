@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_가장큰정사각형찾기 {
+public class PRO2_12905 {
 	static int[][] dp;
 	public static void main(String[] args) {
 		int[][] board = {{0,1,1,1},{1,1,1,1},{1,1,1,1},{0,0,1,0}};

@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_124나라의숫자 {
+public class PRO2_12899 {
 	public static void main(String[] args) {
 		System.out.println(solution(1));
 		System.out.println(solution(2));

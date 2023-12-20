@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_카카오프렌즈컬러링북 {
+public class PRO2_1829 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(6, 4, new int[][] {{1,1,1,0},{1,2,2,0},{1,0,0,1},{0,0,0,1},{0,0,0,3},{0,0,0,3}})));
 	}

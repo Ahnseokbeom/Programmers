@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.PriorityQueue;
 
-public class PRO2_디펜스게임 {
+public class PRO2_142085 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(7,4,new int[] {4,2,4,5,3,3,1}));

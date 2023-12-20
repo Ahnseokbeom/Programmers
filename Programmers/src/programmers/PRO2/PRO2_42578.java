@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.HashMap;
 
-public class PRO2_의상 {
+public class PRO2_42578 {
 	public static void main(String[] args) {
 		String[][] t1 = {{"yellow_hat", "headgear"},{"blue_sunglasses", "eyewear"},{"green_turban", "headgear"}};
 		System.out.println(solution(t1));

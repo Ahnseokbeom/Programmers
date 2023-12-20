@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_하노이의탑 {
+public class PRO2_12946 {
 	static int index = 0;
     public static int[][] solution(int n) {
         int[][] answer = new int[(int)Math.pow(2, n) - 1][2];

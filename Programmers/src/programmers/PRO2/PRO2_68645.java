@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_삼각달팽이 {
+public class PRO2_68645 {
 	public static void main(String[] args) {
 		
 		System.out.println(Arrays.toString(solution(4)));

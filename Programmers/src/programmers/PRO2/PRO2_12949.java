@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_행렬의곱셈 {
+public class PRO2_12949 {
 	public static int[][] solution(int[][] arr1, int[][] arr2) {
         int[][] answer = new int[arr1.length][arr2[0].length];
 

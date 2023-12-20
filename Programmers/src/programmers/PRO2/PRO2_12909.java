@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class PRO2_올바른괄호 {
+public class PRO2_12909 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution("()()"));

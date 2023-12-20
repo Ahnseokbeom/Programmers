@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PRO2_JadenCase문자열만들기 {
+public class PRO2_12951 {
 	static String answer = "";
 	static ArrayList<String> arr;
 	

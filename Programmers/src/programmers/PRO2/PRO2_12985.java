@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_예상대진표 {
+public class PRO2_12985 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(8, 4, 7));

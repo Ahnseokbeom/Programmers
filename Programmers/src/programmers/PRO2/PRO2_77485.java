@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_행렬테두리회전하기 {
+public class PRO2_77485 {
 	public static void main(String[] args) {
 		int[][] q1 = {{2,2,5,4},{3,3,6,6},{5,1,6,3}};
 		System.out.println(Arrays.toString(solution(6, 6, q1)));

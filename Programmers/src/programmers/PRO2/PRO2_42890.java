@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class PRO2_후보키 {
+public class PRO2_42890 {
 	static ArrayList<String> candidate = new ArrayList<>();
 	public static void main(String[] args) {
 		System.out.println(solution(new String[][] {{"100","ryan","music","2"},{"200","apeach","math","2"},{"300","tube","computer","3"},

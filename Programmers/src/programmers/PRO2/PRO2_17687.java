@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.ArrayList;
 
-public class PRO2_3차N진수게임 {
+public class PRO2_17687 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(2, 4, 2, 1));

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class PRO2_숫자블록 {
+public class PRO2_12923 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(1, 10)));
 		System.out.println(Arrays.toString(solution(2, 100000)));

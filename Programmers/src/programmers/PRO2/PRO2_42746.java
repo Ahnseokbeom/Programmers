@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class PRO2_가장큰수 {
+public class PRO2_42746 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {6,10,2}));

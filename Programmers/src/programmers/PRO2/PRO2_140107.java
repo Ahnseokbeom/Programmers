@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_점찍기{
+public class PRO2_140107 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(2,4));

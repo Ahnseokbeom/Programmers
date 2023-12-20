@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_최댓값과최솟값 {
+public class PRO2_12939 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution("1 2 3 4"));

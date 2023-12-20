@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PRO2_할인행사 {
+public class PRO2_131127 {
 	public static void main(String[] args) {
 		String[] want1 = {"banana", "apple", "rice", "pork", "pot"};
 		int[] number1 = {3,2,2,2,1};

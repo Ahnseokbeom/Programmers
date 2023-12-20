@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Stack;
 
-public class PRO2_짝지어제거하기 {
+public class PRO2_12973 {
 	public static void main(String[] args) {
 		System.out.println(solution("baabaa"));
 		System.out.println(solution("cdcd"));

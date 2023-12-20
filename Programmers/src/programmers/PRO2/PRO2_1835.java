@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_단체사진찍기 {
+public class PRO2_1835 {
 	static int answer;
 	static boolean[] visited;
 	static String[] arr = {"A","C","F","J","M","N","R","T"};

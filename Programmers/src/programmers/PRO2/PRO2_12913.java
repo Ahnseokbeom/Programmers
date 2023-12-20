@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_땅따먹기 {
+public class PRO2_12913 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[][] {{1,2,3,5},{5,6,7,8},{4,3,2,1}}));

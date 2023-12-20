@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_PCCP기출문제3번 {
+public class PRO2_250135 {
 	public static void main(String[] args) {
 		System.out.println(solution(0, 5, 30, 0, 7, 0));
 		System.out.println(solution(12, 0, 0, 12, 0, 30));

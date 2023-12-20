@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_피보나치수 {
+public class PRO2_12945 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(3));

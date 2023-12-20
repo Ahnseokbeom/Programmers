@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class PRO2_메뉴리뉴얼 {
+public class PRO2_72411 {
 	static HashMap<String, Integer> map = new HashMap<>();
 	static HashSet<Integer> set = new HashSet<>();
 	static HashSet<String> set2 = new HashSet<>();

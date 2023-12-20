@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_n제곱배열자르기 {
+public class PRO2_87390 {
 	public static void main(String[] args) {
 		
 		System.out.println(Arrays.toString(solution(3, 2, 5)));

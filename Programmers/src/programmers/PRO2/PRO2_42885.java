@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Arrays;
 
-public class PRO2_구명보트 {
+public class PRO2_42885 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(new int[] {70,50,80,50}, 100));

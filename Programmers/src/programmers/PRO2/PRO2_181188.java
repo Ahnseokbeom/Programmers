@@ -9,7 +9,7 @@ class Node {
 		this.e = e;
 	}
 }
-public class PRO2_요격시스템 {
+public class PRO2_181188 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[][] {{4,5},{4,8},{10,14},{11,13},{5,12},{3,7},{1,4}}));
 	}

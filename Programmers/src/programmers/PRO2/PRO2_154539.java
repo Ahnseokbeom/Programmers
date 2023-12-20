@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class PRO2_뒤에있는큰숫자 {
+public class PRO2_154539 {
 	public static void main(String[] args) {
 		int[] numbers1 = {2,3,3,5};
 		System.out.println(Arrays.toString(solution(numbers1)));

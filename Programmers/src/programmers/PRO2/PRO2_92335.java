@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_K진수에서소수개수구하기 {
+public class PRO2_92335 {
 	public static void main(String[] args) {
 
 		System.out.println(solution(437674,3));

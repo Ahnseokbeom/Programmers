@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class PRO2_연속부분수열합의개수 {
+public class PRO2_131701 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {7,9,1,1,4}));

@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_피로도 {
+public class PRO2_87946 {
 	static int answer = 0;
 	static boolean[] visit;
 	public static void main(String[] args) {

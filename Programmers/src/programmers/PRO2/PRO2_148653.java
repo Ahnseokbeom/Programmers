@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_마법의엘리베이터 {
+public class PRO2_148653 {
 	public static void main(String[] args) {
 		System.out.println(solution(16));
 		System.out.println(solution(2554));

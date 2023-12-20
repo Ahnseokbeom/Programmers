@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.ArrayList;
 
-public class PRO2_소수찾기 {
+public class PRO2_42839 {
 	static int answer = 0;
     static boolean[] check = new boolean[7];
     static ArrayList<Integer> arr = new ArrayList<>();

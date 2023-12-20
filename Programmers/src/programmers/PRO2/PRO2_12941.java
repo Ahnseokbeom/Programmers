@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class PRO2_최솟값만들기 {
+public class PRO2_12941 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[]{1,4,2}, new int[] {5,4,4}));

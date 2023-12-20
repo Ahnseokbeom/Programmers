@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PRO2_연속된부분수열의합 {
+public class PRO2_178870 {
 	public static void main(String[] args) {
 		
 		System.out.println(Arrays.toString(solution(new int[] {1,2,3,4,5}, 7)));

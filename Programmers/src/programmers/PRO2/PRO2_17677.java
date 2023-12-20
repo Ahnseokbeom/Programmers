@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PRO2_1차뉴스클러스터링 {
+public class PRO2_17677 {
 	public static void main(String[] args) {
 		System.out.println(solution("FRANCE", "french"));
 		System.out.println(solution("handshake", "shake hands"));

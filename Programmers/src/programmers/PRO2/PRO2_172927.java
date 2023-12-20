@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_광물캐기 {
+public class PRO2_172927 {
 	static int min = Integer.MAX_VALUE;
 	public static void main(String[] args) {
 		int[] p1 = {1,3,2};

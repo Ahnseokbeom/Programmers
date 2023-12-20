@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class PRO2_게임맵최단거리  {
+public class PRO2_1844 {
 	static int[] dx = {-1,1,0,0};
 	static int[] dy = {0,0,1,-1};
 	static int check[][];

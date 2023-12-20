@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.math.BigInteger;
 
-public class PRO2_멀쩡한사각형 {
+public class PRO2_62048 {
 	public static void main(String[] args) {
 		System.out.println(solution(8, 12));
 	}

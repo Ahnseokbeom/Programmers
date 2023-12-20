@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_숫자카드나누기 {
+public class PRO2_135807 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {10,17}, new int[] {5,20}));

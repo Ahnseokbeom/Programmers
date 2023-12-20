@@ -2,7 +2,7 @@ package programmers.PRO2;
 
 import java.util.Stack;
 
-public class PRO2_괄호회전하기 {
+public class PRO2_76502 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution("[](){}"));

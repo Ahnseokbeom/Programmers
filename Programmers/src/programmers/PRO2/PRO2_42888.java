@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
-public class PRO2_오픈채팅방 {
+public class PRO2_42888 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(new String[] {"Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234",
 													"Enter uid1234 Prodo","Change uid4567 Ryan"}));

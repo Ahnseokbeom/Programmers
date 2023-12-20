@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class PRO2_줄서는방법 {
+public class PRO2_12936 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(3,5)));
 	}

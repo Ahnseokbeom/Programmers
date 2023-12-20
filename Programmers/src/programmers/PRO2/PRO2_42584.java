@@ -3,7 +3,7 @@ package programmers.PRO2;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class PRO2_주식가격 {
+public class PRO2_42584 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(new int[] {1,2,3,2,3})));
 	}

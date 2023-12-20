@@ -1,7 +1,7 @@
 package programmers.PRO2;
 
 
-public class PRO2_모음사전 {
+public class PRO2_84512 {
 	static String[] arr = {"A","E","I","O","U"};
 	static int count = 0;
 	static int answer = 0;

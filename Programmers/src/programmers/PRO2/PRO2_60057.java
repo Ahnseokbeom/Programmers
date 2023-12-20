@@ -1,6 +1,6 @@
 package programmers.PRO2;
 
-public class PRO2_문자열압축 {
+public class PRO2_60057 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution("aabbaccc"));

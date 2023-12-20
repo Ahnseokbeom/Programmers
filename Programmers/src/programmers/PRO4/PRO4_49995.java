@@ -1,6 +1,6 @@
 package programmers.PRO4;
 
-public class PRO4_쿠키구입 {
+public class PRO4_49995 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {1,1,2,3}));
 		System.out.println(solution(new int[] {1,2,4,5}));

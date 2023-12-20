@@ -2,7 +2,7 @@ package programmers.PRO4;
 
 import java.util.Arrays;
 
-public class PRO4_징검다리 {
+public class PRO4_43236 {
 	public static void main(String[] args) {
 		System.out.println(solution(25, new int[] {2,14,11,21,17}, 2));
 	}

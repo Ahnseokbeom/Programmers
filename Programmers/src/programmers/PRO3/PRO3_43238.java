@@ -2,7 +2,7 @@ package programmers.PRO3;
 
 import java.util.Arrays;
 
-public class PRO3_입국심사 {
+public class PRO3_43238 {
 	public static void main(String[] args) {
 		System.out.println(solution(6, new int[] {7,10}));
 		System.out.println(solution(200000, new int[]{3,10,6,29,10,4,5}));

@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_순위 {
+public class PRO3_49191 {
 	public static void main(String[] args) {
 		System.out.println(solution(5, new int[][]{{4,3},{4,2},{3,2},{1,2},{2,5}}));
 	}

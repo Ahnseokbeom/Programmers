@@ -2,7 +2,7 @@ package programmers.PRO4;
 
 import java.util.Arrays;
 
-public class PRO4_단어퍼즐 {
+public class PRO4_12983 {
 	public static void main(String[] args) {
 		System.out.println(solution(new String[] {"ba","na","n","a"}, "banana"));
 		System.out.println(solution(new String[] {"app","ap","p","l","e","ple","pp"}, "apple"));

@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_기지국설치 {
+public class PRO3_12979 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(11, new int[] {4,11},1));

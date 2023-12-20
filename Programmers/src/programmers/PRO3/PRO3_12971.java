@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_스티커모으기2 {
+public class PRO3_12971 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {14, 6, 5, 11, 3, 9, 2, 10}));
 		System.out.println(solution(new int[] {1,3,2,5,4}));

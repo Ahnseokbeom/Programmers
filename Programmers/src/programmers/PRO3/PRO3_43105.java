@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_정수삼각형 {
+public class PRO3_43105 {
 	public static void main(String[] args) {
 		int[][] triangle = { { 7 }, { 3, 8 }, { 8, 1, 0 }, { 2, 7, 4, 4 }, { 4, 5, 2, 6, 5 } };
 		System.out.println(solution(triangle));

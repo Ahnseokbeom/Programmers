@@ -3,7 +3,7 @@ package programmers.PRO3;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class PRO3_불량사용자 {
+public class PRO3_64064 {
 	static HashSet<String> set;
 	static String[] regex;
 	static boolean[] check;

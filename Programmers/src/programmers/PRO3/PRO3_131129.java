@@ -2,7 +2,7 @@ package programmers.PRO3;
 
 import java.util.Arrays;
 
-public class PRO3_카운트다운 {
+public class PRO3_131129 {
 	static int[][] dp;
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(21)));

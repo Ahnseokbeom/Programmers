@@ -2,7 +2,7 @@ package programmers.PRO3;
 
 import java.util.Arrays;
 
-public class PRO3_최고의집합 {
+public class PRO3_12938 {
 	public static void main(String[] args) {
 		
 		System.out.println(Arrays.toString(solution(2,9)));

@@ -2,7 +2,7 @@ package programmers.PRO3;
 
 import java.util.Arrays;
 
-public class PRO3_단속카메라 {
+public class PRO3_42884 {
 	public static void main(String[] args) {
 		int[][] routes = {{-20,-15},{-14,-5},{-18,-13},{-5,-3}};
 		System.out.println(solution(routes));

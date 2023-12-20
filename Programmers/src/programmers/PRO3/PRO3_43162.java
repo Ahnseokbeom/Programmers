@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_네트워크 {
+public class PRO3_43162 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(3,new int[][] {{1,1,0},{1,1,0},{0,0,1}}));

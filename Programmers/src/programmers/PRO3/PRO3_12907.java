@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_거스름돈 {
+public class PRO3_12907 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(5, new int[] {1,2,5}));

@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_연속펄스부분수열의합 {
+public class PRO3_161988 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[]{2, 3, -6, 1, 3, -1, 2, 4}));

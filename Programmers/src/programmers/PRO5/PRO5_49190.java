@@ -2,7 +2,7 @@ package programmers.PRO5;
 
 import java.util.HashSet;
 
-public class PRO5_방의개수 {
+public class PRO5_49190 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {6, 6, 6, 4, 4, 4, 2, 2, 2, 0, 0, 0, 1, 6, 5, 5, 3, 6, 0}));
 	}

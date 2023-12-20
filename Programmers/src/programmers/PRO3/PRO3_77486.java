@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PRO3_다단계칫솔판매 {
+public class PRO3_77486 {
 	static Map<String, Integer> map1 = new HashMap<>();
 	static Map<String, String> map2 = new HashMap<>();
 	public static void main(String[] args) {

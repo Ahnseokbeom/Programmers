@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_단어변환 {
+public class PRO3_43163 {
 	static boolean visit[];
 	static int answer = 999999;
 	public static void main(String[] args) {

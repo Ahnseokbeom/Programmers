@@ -2,7 +2,7 @@ package programmers.PRO3;
 
 import java.util.Arrays;
 
-public class PRO3_숫자게임 {
+public class PRO3_12987 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(new int[] {5,1,3,7}, new int[] {2,2,6,8}));

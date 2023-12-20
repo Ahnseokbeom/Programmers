@@ -3,7 +3,7 @@ package programmers.PRO4;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class PRO4_무지의먹방라이브 {
+public class PRO4_42891 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {3,1,2}, 5));
 		System.out.println(solution(new int[] {3,1,2}, 4));

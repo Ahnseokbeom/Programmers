@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class PRO3_이중우선순위큐 {
+public class PRO3_42628 {
     public static void main(String[] args) {
         System.out.println(
                 Arrays.toString(solution(new String[] { "I 16", "I -5643", "D -1", "D 1", "D 1", "I 123", "D -1" })));

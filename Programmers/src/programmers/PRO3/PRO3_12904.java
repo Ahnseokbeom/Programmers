@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_가장긴팰린드롬 {
+public class PRO3_12904 {
 	public static void main(String[] args) {
 		System.out.println(solution("abcdcba"));
 		System.out.println(solution("abacde"));

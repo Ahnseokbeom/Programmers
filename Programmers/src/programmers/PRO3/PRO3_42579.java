@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class PRO3_베스트앨범 {
+public class PRO3_42579 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(new String[] {"classic", "pop", "classic", "classic", "pop"},
 				new int[] {500,600,150,800,2500})));

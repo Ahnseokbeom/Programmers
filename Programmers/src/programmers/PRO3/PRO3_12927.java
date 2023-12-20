@@ -3,7 +3,7 @@ package programmers.PRO3;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
-public class PRO3_야근지수 {
+public class PRO3_12927 {
 	public static void main(String[] args) {
 		
 		System.out.println(solution(4, new int[] {4,3,3}));

@@ -1,6 +1,6 @@
 package programmers.PRO3;
 
-public class PRO3_등굣길 {
+public class PRO3_42898 {
 	public static void main(String[] args) {
 		System.out.println(solution(4,3,new int[][] {{2,2}}));
 	}

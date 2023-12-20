@@ -2,7 +2,7 @@ package programmers.stream;
 
 import java.util.Arrays;
 
-public class PRO_1로만들기 {
+public class PRO_181880 {
 	static int count;
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {12, 4, 15, 1, 14}));

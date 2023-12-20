@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class PRO_가장큰수찾기 {
+public class PRO_120899 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(new int[] {1,8,3})));
 		System.out.println(Arrays.toString(solution(new int[] {9,10,11,8})));

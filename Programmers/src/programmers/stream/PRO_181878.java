@@ -1,6 +1,6 @@
 package programmers.stream;
 
-public class PRO_원하는문자열찾기 {
+public class PRO_181878 {
 	public static void main(String[] args) {
 		System.out.println(solution("AbCdEfG", "aBc"));
 		System.out.println(solution("aaAA", "aaaaa"));

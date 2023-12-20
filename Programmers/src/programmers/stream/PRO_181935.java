@@ -2,7 +2,7 @@ package programmers.stream;
 
 import java.util.stream.IntStream;
 
-public class PRO_홀짝에따라다른값반환하기 {
+public class PRO_181935 {
 	static int[] arr;
 	public static void main(String[] args) {
 		System.out.println(solution(7));

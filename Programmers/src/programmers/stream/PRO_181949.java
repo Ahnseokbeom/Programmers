@@ -1,6 +1,6 @@
 package programmers.stream;
 
-public class PRO_대소문자바꿔서출력하기 {
+public class PRO_181949 {
 	public static void main(String[] args) {
 		System.out.println("aBcDeFg");
 	}

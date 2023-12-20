@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class PRO_문자열섞기 {
+public class PRO_181942 {
 	public static void main(String[] args) {
         System.out.println(solution("aaaaa", "bbbbb"));
     }

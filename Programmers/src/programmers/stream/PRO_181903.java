@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class PRO_qrCode {
+public class PRO_181903 {
 	public static void main(String[] args) {
 		System.out.println(solution(3, 1, "qjnwezgrpirldywt"));
 		System.out.println(solution(1, 0, "programmers"));

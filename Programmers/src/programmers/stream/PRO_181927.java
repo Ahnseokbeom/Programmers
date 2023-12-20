@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class PRO_마지막두원소 {
+public class PRO_181927 {
 	public static void main(String[] args) {
 		System.out.println(solution(new int[] {0, 1, 0, 10, 0, 1, 0, 10, 0, -1, -2, -1}));
 	}

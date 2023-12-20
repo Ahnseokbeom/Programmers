@@ -1,6 +1,6 @@
 package programmers.stream;
 
-public class PRO_9로나눈나머지 {
+public class PRO_181914 {
 	public static void main(String[] args) {
 		System.out.println(solution("123"));
 		System.out.println(solution("78720646226947352489"));

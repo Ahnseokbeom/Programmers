@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class PRO_n개간격의원소들 {
+public class PRO_181888 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(new int[] {4, 2, 6, 1, 7, 6}, 2)));
 		System.out.println(Arrays.toString(solution(new int[] {4, 2, 6, 1, 7, 6}, 4)));

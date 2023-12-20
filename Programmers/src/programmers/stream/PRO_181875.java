@@ -3,7 +3,7 @@ package programmers.stream;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class PRO_배열에서문자열대소문자변환하기 {
+public class PRO_181875 {
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(solution(new String[]{"AAA","BBB","CCC","DDD"})));
 		System.out.println(Arrays.toString(solution(new String[] {"aBc","AbC"})));

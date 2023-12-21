@@ -6,16 +6,16 @@
 
 각 소스 코드 파일은 다음과 같은 형식으로 저장되어 있습니다.
 
-- Java 문제: `PRO_{문제난이도}_{문제이름}.java`
-- SQL 문제: `PRO_{문제번호}.sql`
+- Java 문제: `PRO{문제난이도}_{문제번호}.java`
+- SQL 문제: `PRO{문제난이도}_{문제번호}.java`
 
-예를 들어, `PRO3_Hello.java`는 프로그래머스 3레벨의 "Hello" 문제를 Java로 푼 소스 코드입니다. 또한, `PRO100.sql`은 프로그래머스 100번 문제에 대한 MySQL SQL 문제 풀이입니다.
+예를 들어, 프로그래머스 3레벨의 "Hello" 문제번호가 1010이라면 `PRO3_1010.java`는 프로그래머스 3레벨의 "Hello"를 Java로 푼 소스 코드입니다. <br>또한, `PRO3_1010.sql`은 프로그래머스 100번 문제에 대한 MySQL SQL 문제 풀이입니다.
 
 ## 문제 목록
 
-1. [프로그래머스 3레벨 - Hello (Java)](PRO3_Hello.java)
-2. [프로그래머스 100번 (SQL)](PRO100.sql)
-3. [...](PRO_answernumber.java)
+1. [프로그래머스 3레벨 스티커모으기 (Java) - PRO3_12971.java](https://github.com/Ahnseokbeom/Programmers/tree/main/Programmers/src/programmers/PRO3/PRO3_12971.java)
+2. [프로그래머스 3레벨 59411번 (SQL)](https://github.com/Ahnseokbeom/Programmers/tree/main/Programmers/src/MySQL/PRO3/59411.sql)
+3. [...](PRO_problemNumber.java)
 
 Refer to each file for source code and explanations of the respective problems.
 

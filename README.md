@@ -14,7 +14,7 @@
 ## 문제 목록
 
 1. [프로그래머스 3레벨 스티커모으기 (Java) - PRO3_12971.java](https://github.com/Ahnseokbeom/Programmers/tree/main/Programmers/src/programmers/PRO3/PRO3_12971.java)
-2. [프로그래머스 3레벨 59411번 (SQL)](https://github.com/Ahnseokbeom/Programmers/tree/main/Programmers/src/MySQL/PRO3/59411.sql)
+2. [프로그래머스 3레벨 59411번 (SQL)](https://github.com/Ahnseokbeom/Programmers/tree/main/Programmers/src/MySQL/PRO3/PRO3_59411.sql)
 3. [...](PRO_problemNumber.java)
 
 Refer to each file for source code and explanations of the respective problems.
